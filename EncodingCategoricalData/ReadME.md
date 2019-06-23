@@ -1,1 +1,1 @@
-This Jupyter Notebook describes Various techniques to encode Categorical data which is one of the important step in Data preprocessing that is performed before feeding data to the Machine Learning Models
+# This Jupyter Notebook describes Various techniques to encode Categorical data which is one of the important step in Data preprocessing that is performed before feeding data to the Machine Learning Models
