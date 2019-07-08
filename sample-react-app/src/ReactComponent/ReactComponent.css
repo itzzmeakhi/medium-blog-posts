@@ -1,0 +1,46 @@
+
+.body {
+    padding: 3%;
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+    height: 81vh;
+}
+
+.body .color-list {
+    float: left;
+    width: 50%;
+}
+
+.body .color-list p label {
+    width: 30%;
+    font-size: 175%;
+    margin: 0 10px 0 0;
+    display: inline-block;
+
+}
+
+.body .color-list p button {
+    font-family: 'Caveat', cursive;
+    font-size: 125%;
+    padding: 7px 20px;
+    margin: 0 0 0 40px;
+    border: transparent;
+    background-color: #2d3436;
+    color: #fff;
+}
+
+.body .color-alert {
+    float: right;
+    width: 50%;
+}
+
+.body .color-alert .display-mode {
+    background-color: rgb(0,0,0, 0.2);
+    height: 20vh;
+}
+
+.body .color-alert .display-mode p {
+    font-size: 145%;
+    padding: 50px 200px;
+    opacity: 1;
+}

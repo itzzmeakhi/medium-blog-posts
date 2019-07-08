@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Caveat&display=swap');
+
+.App {
+  margin: 0 auto;
+  font-family: 'Caveat', cursive;
+}
+
+.App-header {
+  background-color: #282c34;
+  color: aliceblue;
+  margin: 0;
+  padding: 1%;
+  box-shadow: #eee;
+}
+
